@@ -1,0 +1,6 @@
+.circle{
+    border-radius: 50%; /* makes it round */
+    height: 200px;
+    width: 200px;
+    background-color: deepskyblue;
+}
